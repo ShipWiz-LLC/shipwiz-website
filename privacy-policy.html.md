@@ -1,8 +1,8 @@
 # Privacy Policy - Comprehensive Data Protection Documentation
 
 ## Document Overview
-- **Effective Date**: October 20, 2024
-- **Company**: ShipWiz LLC, P.O. Box 12392, Tempe, AZ, 85284
+- **Effective Date**: June 2, 2025
+- **Company**: ShipWiz LLC, 1209 Mountain Rd Pl NE, STE R, Albuquerque, NM 87110
 - **Scope**: Application and service data handling practices
 - **Compliance**: GDPR, CCPA, and US federal privacy regulations
 
@@ -106,7 +106,7 @@
 ## Contact & Communication
 - **Support Email**: support@shipwiz.app for privacy inquiries
 - **Website Contact**: Direct form at shipwiz.app/#ContactUs
-- **Postal Address**: P.O. Box 12392, Tempe, AZ, 85284
+- **Postal Address**: 1209 Mountain Rd Pl NE, STE R, Albuquerque, NM 87110
 - **Response Commitment**: Timely and comprehensive privacy request handling
 
 ## Policy Updates

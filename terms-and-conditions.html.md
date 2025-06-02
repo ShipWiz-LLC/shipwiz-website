@@ -1,8 +1,8 @@
 # Terms and Conditions - Service Agreement
 
 ## Document Overview
-- **Effective Date**: October 20, 2024
-- **Company**: ShipWiz LLC, P.O. Box 12392, Tempe, AZ, 85284
+- **Effective Date**: June 2, 2025
+- **Company**: ShipWiz LLC, 1209 Mountain Rd Pl NE, STE R, Albuquerque, NM 87110
 - **Service**: ShipWiz iOS application
 - **Jurisdiction**: Arizona, United States
 - **Age Requirement**: Users must be over 18 years old
@@ -56,6 +56,13 @@
 - **Processing Fees**: 10% fee for excessive surcharges
 - **Collections**: Overdue invoices subject to Rocket Receivables collections
 
+## Package Holding and Disposal Policy
+- **Disputed Charge Packages**: For packages with disputed charges that reach our warehouse due to incorrect address, carrier rejection, recipient refusal, or any other reason
+- **Package Retention**: ShipWiz reserves the right to hold packages until payment is received for disputed charges
+- **Payment Timeline**: If payment is not received within 3 months of package arrival at warehouse
+- **Package Disposal**: ShipWiz has the right to discard packages after 3-month holding period
+- **Liability Limitation**: ShipWiz is not responsible for packages or contents after disposal
+
 ## Intellectual Property
 - **Company Ownership**: Service content, features, functionality remain company property
 - **Protection Coverage**: Copyright, trademark, and other applicable laws
@@ -102,7 +109,7 @@
 ## Contact Information
 - **Email Support**: support@shipwiz.app
 - **Website Contact**: shipwiz.app/#ContactUs
-- **Postal Address**: P.O. Box 12392, Tempe, AZ, 85284
+- **Postal Address**: 1209 Mountain Rd Pl NE, STE R, Albuquerque, NM 87110
 - **Support Scope**: Questions, terms clarification, dispute resolution
 
 ## Terms Updates
