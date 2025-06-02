@@ -1,0 +1,35 @@
+# ShipWiz Website
+
+> Professional marketing website for ShipWiz iOS app - a sustainable shipping label platform offering discounted rates from 85+ carriers with 1% revenue donated to climate initiatives. Built with Webflow featuring modern animations, responsive design, and comprehensive legal documentation.
+
+ShipWiz is a shipping label platform that provides up to 78% discounts off retail rates from major carriers including USPS, UPS, FedEx, DHL, and 80+ others. The website serves as the primary marketing hub for the iOS application, emphasizing environmental sustainability through Stripe Climate partnership and professional shipping solutions for businesses and individuals.
+
+The platform features comprehensive shipping tools including QR code generation, carrier tracking, email delivery updates, Saturday delivery options, PDF sharing capabilities, and direct device printing via AirPrint. The website showcases these features through professional design and clear value propositions.
+
+## Documentation
+
+[README.md](README.md): Project overview with feature highlights, links to iOS App Store, privacy policy, and contact information
+
+[index.html.md](index.html.md): Main landing page with hero section, product demonstration, feature highlights, pricing benefits, and contact form integration
+
+[privacy-policy.html.md](privacy-policy.html.md): Comprehensive privacy policy covering GDPR, CCPA compliance, data collection practices, and user rights
+
+[terms-and-conditions.html.md](terms-and-conditions.html.md): Complete terms of service including order processes, intellectual property, user accounts, liability limitations, and dispute resolution
+
+[return-policy.html.md](return-policy.html.md): Return policy for unused shipping labels including eligibility, refund process, and timeline specifications
+
+## Business Resources
+
+[Webflow design system](index.html.md): Professional CSS framework with custom animations, responsive breakpoints, and modern UI components
+
+[Legal compliance documentation](privacy-policy.html.md): GDPR and CCPA compliant privacy practices with comprehensive data protection policies
+
+[Payment processing integration](terms-and-conditions.html.md): Stripe payment system with surcharge handling, invoice management, and collections procedures
+
+## Technical Integration
+
+[Social media presence](index.html.md): Instagram, Twitter/X, and LinkedIn integration with consistent branding and engagement tracking
+
+[Analytics and tracking](index.html.md): Google Analytics (GA4) implementation with developer ID tracking and user behavior monitoring
+
+[Form handling systems](index.html.md): Formspree contact form integration with reCAPTCHA spam protection and email delivery
