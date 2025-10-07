@@ -44,5 +44,20 @@ timm/lib/timm.js:
    *
    * @copyright Guillermo Grau Panea 2016
    * @license MIT
-   *)
+*)
 */
+
+// ShipWiz Statuspage embed
+(function () {
+  try {
+    var d = document;
+    if (!d.querySelector('script[src*="statuspage.io/embed/script.js"]')) {
+      var el = d.createElement('script');
+      el.src = 'https://shipwiz.statuspage.io/embed/script.js';
+      el.async = true;
+      (d.head || d.documentElement).appendChild(el);
+    }
+  } catch (e) {
+    // no-op
+  }
+})();
